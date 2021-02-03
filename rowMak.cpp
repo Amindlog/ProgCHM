@@ -7,7 +7,7 @@ double exspanentaX2(double EPS, double x2);
 int main() {
     double const EPS = 0.000001;    
     double x1 = 0.716 + 0.04314;
-    double x2 = 2.834 - 0.02814;
+    double x2 = 2.834 - 0.02814; 
     
     cout << fixed << setprecision(9);
     cout << "e^x при x1 = 0.716 + 0.04314, x2 = 2.834 - 0.02814 " << endl;
