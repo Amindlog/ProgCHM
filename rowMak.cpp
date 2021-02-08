@@ -34,3 +34,12 @@ double exspanentaX1(double EPS,double x1){
     }
     return sum1;
 }
+double exspanentaX2(double EPS, double x1){
+    double Fx = 0;
+    double tmp = 100;
+    double step = 1;
+    for (int i = 1 ; tmp > EPS; i++){
+    //f(x) = 1/(1+x)^2
+     
+    }
+}
